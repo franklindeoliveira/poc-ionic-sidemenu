@@ -4,4 +4,4 @@
 
 http://ionicframework.com/getting-started/
 
-### Após isso, rode: *$ionic serve* na pasta raiz do projeto para abri-lo no browser.
+Após isso, rode: **$ionic serve** na pasta raiz do projeto para abri-lo no browser.
